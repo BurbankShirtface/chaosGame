@@ -33,3 +33,11 @@ button {
   margin: 100px;
   width: 100px;
 }
+
+p {
+  color: white;
+}
+
+a {
+  color: yellow;
+}
